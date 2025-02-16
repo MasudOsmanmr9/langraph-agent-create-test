@@ -1,0 +1,20 @@
+{
+  "name": "langraph-agent-create-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.40",
+    "@langchain/langgraph": "^0.2.46",
+    "@langchain/ollama": "^0.2.0",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.2"
+  }
+}
